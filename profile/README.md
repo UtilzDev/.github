@@ -22,7 +22,7 @@ While inspired by existing open-source UI libraries and tools, all code here is 
 
 ## Open Source
 
-All packages within QwikPacks are released under the [MIT License](LICENSE). Contributions, issues, and feature requests are welcome!
+All packages within QwikPacks are released under the [MIT License](../LICENSE). Contributions, issues, and feature requests are welcome!
 
 ---
 
